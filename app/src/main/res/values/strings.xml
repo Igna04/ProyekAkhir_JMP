@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ProjectAkhir_LoginWithSQLite</string>
+    <string name="login_kamu_sedang_diverifikasi">Login kamu sedang diverifikasi..</string>
+    <string name="back" />
+    <string name="masukkan_tanggal_lahir_dd_mm_yyyy">Masukkan Tanggal Lahir (dd/mm/yyyy)</string>
+    <string-array name="gender_array">
+        <item>Pilih</item>
+        <item>Pria</item>
+        <item>Wanita</item>
+    </string-array>
+    <string name="placeholder_pilih">Pilih</string>
+</resources>
